@@ -1,4 +1,4 @@
 # SASS-e-GULP-CONFIGURADOS
 
-Passo a passo no arquivo: 
+Steps in file:
 New Project.txt
